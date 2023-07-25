@@ -1,0 +1,14 @@
+D:\Git\Clock\clock\bin\Release\clock.exe.config
+D:\Git\Clock\clock\bin\Release\clock.exe
+D:\Git\Clock\clock\bin\Release\clock.pdb
+D:\Git\Clock\clock\obj\Release\clock.csproj.AssemblyReference.cache
+D:\Git\Clock\clock\obj\Release\clock.csproj.SuggestedBindingRedirects.cache
+D:\Git\Clock\clock\obj\Release\clock.autor.resources
+D:\Git\Clock\clock\obj\Release\clock.Digital_clock.resources
+D:\Git\Clock\clock\obj\Release\clock.Form_clock.resources
+D:\Git\Clock\clock\obj\Release\clock.Form_settings.resources
+D:\Git\Clock\clock\obj\Release\clock.Properties.Resources.resources
+D:\Git\Clock\clock\obj\Release\clock.csproj.GenerateResource.cache
+D:\Git\Clock\clock\obj\Release\clock.csproj.CoreCompileInputs.cache
+D:\Git\Clock\clock\obj\Release\clock.exe
+D:\Git\Clock\clock\obj\Release\clock.pdb

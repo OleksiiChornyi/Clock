@@ -1,0 +1,17 @@
+D:\Git\Clock\UnitTestProject1\bin\Release\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Git\Clock\UnitTestProject1\bin\Release\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Git\Clock\UnitTestProject1\bin\Release\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Git\Clock\UnitTestProject1\bin\Release\UnitTestProject1.dll
+D:\Git\Clock\UnitTestProject1\bin\Release\UnitTestProject1.pdb
+D:\Git\Clock\UnitTestProject1\bin\Release\clock.exe
+D:\Git\Clock\UnitTestProject1\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Git\Clock\UnitTestProject1\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Git\Clock\UnitTestProject1\bin\Release\clock.pdb
+D:\Git\Clock\UnitTestProject1\bin\Release\clock.exe.config
+D:\Git\Clock\UnitTestProject1\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Git\Clock\UnitTestProject1\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Git\Clock\UnitTestProject1\obj\Release\UnitTestProject1.csproj.AssemblyReference.cache
+D:\Git\Clock\UnitTestProject1\obj\Release\UnitTestProject1.csproj.CoreCompileInputs.cache
+D:\Git\Clock\UnitTestProject1\obj\Release\UnitTestProject1.csproj.CopyComplete
+D:\Git\Clock\UnitTestProject1\obj\Release\UnitTestProject1.dll
+D:\Git\Clock\UnitTestProject1\obj\Release\UnitTestProject1.pdb
