@@ -1,0 +1,13 @@
+D:\lessons\TP_2.4\lab06\clock\clock\bin\Debug\clock.exe.config
+D:\lessons\TP_2.4\lab06\clock\clock\bin\Debug\clock.exe
+D:\lessons\TP_2.4\lab06\clock\clock\bin\Debug\clock.pdb
+D:\lessons\TP_2.4\lab06\clock\clock\obj\Debug\clock.csprojAssemblyReference.cache
+D:\lessons\TP_2.4\lab06\clock\clock\obj\Debug\clock.Properties.Resources.resources
+D:\lessons\TP_2.4\lab06\clock\clock\obj\Debug\clock.csproj.GenerateResource.cache
+D:\lessons\TP_2.4\lab06\clock\clock\obj\Debug\clock.csproj.CoreCompileInputs.cache
+D:\lessons\TP_2.4\lab06\clock\clock\obj\Debug\clock.exe
+D:\lessons\TP_2.4\lab06\clock\clock\obj\Debug\clock.pdb
+D:\lessons\TP_2.4\lab06\clock\clock\obj\Debug\clock.Form_clock.resources
+D:\lessons\TP_2.4\lab06\clock\clock\obj\Debug\clock.Form_settings.resources
+D:\lessons\TP_2.4\lab06\clock\clock\obj\Debug\clock.Digital_clock.resources
+D:\lessons\TP_2.4\lab06\clock\clock\obj\Debug\clock.autor.resources

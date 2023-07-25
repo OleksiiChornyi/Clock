@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="clock.autor">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAACACAAAACABAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>autor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="clock.Digital_clock">
+    <Position X="0.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>KKACAAAgICAAABQAAACAAAADBAAAACAAAAQQBAAAAAA=</HashCode>
+      <FileName>Digital_clock.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="clock.Form_clock">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CKYCAAAAACAAAAYIcQCAAAADAAEAACIIAUEAAABAAAE=</HashCode>
+      <FileName>Form_clock.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="clock.Form_settings">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CCQCCAGBADAAABAIMYCAAAEHIEgGACBCEEATgCAACBA=</HashCode>
+      <FileName>Form_settings.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="clock.Program">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
